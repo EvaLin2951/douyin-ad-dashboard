@@ -2,7 +2,7 @@
 
 ### Project Introduction
 
-Juliang Qianchuan is an e-commerce advertising platform under Douyin (Chinese TikTok) which provides marketing solutions for its merchants and helps businesses achieve long-term growth. In order to make up for the missing backend features of the platform, this advanced, user-friendly visualized dashboard will not only offer a more comprehensive view of advertising metrics but also provide merchants with the flexibility to customize their data analysis, leading to more informed decision-making and effectively tailored marketing strategies.
+_Juliang Qianchuan_ is an e-commerce advertising platform under _Douyin_ (Chinese TikTok) which provides marketing solutions for its merchants and helps businesses achieve long-term growth. In order to make up for the missing backend features of the platform, this advanced, user-friendly visualized dashboard will not only offer a more comprehensive view of advertising metrics but also provide merchants with the flexibility to customize their data analysis, leading to more informed decision-making and effectively tailored marketing strategies.
 
 This application mainly focuses on two key dimensions: the advertising account and the advertising program. Users can filter data according to their:
 * **Marketing goals**, with options including _'All', 'Video',_ or _'Live’_.
