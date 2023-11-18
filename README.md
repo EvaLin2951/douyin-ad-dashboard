@@ -12,7 +12,7 @@ The results of the analysis, based on the selected metrics and filters, are pres
 
 For advertising accounts, the dashboard supports the selection of multiple analysis metrics and tracks their performance over time, representing the trends through a combination of line charts and tables. The time granularity of these trends adapts based on the selected date range: if a single day is chosen, the x-axis of the chart represents hours; for longer periods, it shifts to days.
 
-When it comes to analyzing advertising programs, the dashboard allows users to select any three metrics for analysis. These chosen metrics are then represented in a bubble chart in which they are mapped distinctly: one to the x-axis, another to the y-axis, and the third to the size of the bubbles. Additionally, trend graph analysis for individual advertising programs is also provided, similar to the one for advertising accounts.
+When it comes to analyzing advertising programs, the dashboard allows users to select any three metrics for analysis. These chosen metrics are then represented in a bubble chart in which they are mapped distinctly: one to the x-axis, another to the y-axis, and the third to the size of the bubbles. Additionally, trend graph analysis for individual advertising programs is also provided, similar to the one for advertising accounts.  <br><br>
 
 ### Development Process
 
@@ -24,4 +24,14 @@ In the next phase, I transitioned from using static JSON files to directly conne
 
 In the last phase, I specifically developed a module to fetch data from the advertising platform's API, processed the data, and stored it in MongoDB. The data visualization and analysis module then accessed this data from MongoDB. This change significantly improved data loading and analysis performance, and resolved the limitation of the API only allowing data retrieval for a maximum of 180 days.
 
-The phased approach proved to be crucial for the project's success, enabling me to complete the entire system's development within the project's timeframe. At the halfway mark of the project,  I delivered a functional software version that could be used effectively, earning recognition and praise from both my mentor and the advertising team.
+The phased approach proved to be crucial for the project's success, enabling me to complete the entire system's development within the project's timeframe. At the halfway mark of the project,  I delivered a functional software version that could be used effectively, earning recognition and praise from both my mentor and the advertising team.  <br><br>
+
+### Achievements
+
+Through this project, I have gained a deep understanding of the fundamental principles and methods of advertising data analysis. I had the opportunity to practice the transformation of business problems into software development requirements, followed by the application of software technologies to implement and deliver those requirements. This experience allowed me to accumulate knowledge in communicating with business stakeholders to understand their requirements and deliver valuable software features that align with business needs and user preferences.  <br><br>
+
+### Remaining Issues
+
+With additional time available, I would have liked to implement access control within the system. This feature would have allowed the system to be deployed on servers and accessed from the internet and would have ensured that sensitive data remained protected while allowing authorized users to access the system remotely. Furthermore, I had plans to enhance the user interface not only to improve the aesthetics but also to enhance the overall user experience by making it more intuitive and engaging.
+
+Post-internship, I explored the creation of a similar application using Streamlit and Pygwalker. This approach offered more flexibility and engaging data exploration features, while the analytical capabilities became more versatile, it also placed higher demands on the users.
