@@ -13,9 +13,6 @@ The results of the analysis, based on the selected metrics and filters, are pres
 For advertising accounts, the dashboard supports the selection of multiple analysis metrics and tracks their performance over time, representing the trends through a combination of line charts and tables. The time granularity of these trends adapts based on the selected date range: if a single day is chosen, the x-axis of the chart represents hours; for longer periods, it shifts to days.
 
 When it comes to analyzing advertising programs, the dashboard allows users to select any three metrics for analysis. These chosen metrics are then represented in a bubble chart in which they are mapped distinctly: one to the x-axis, another to the y-axis, and the third to the size of the bubbles. Additionally, trend graph analysis for individual advertising programs is also provided, similar to the one for advertising accounts.  <br><br>
-![account_layout](https://github.com/EvaLin2951/douyin-ad-dashboard/assets/132865370/d3504192-07ea-4f9f-ae3b-e28328857cbf)
-
-![program_layout](https://github.com/EvaLin2951/douyin-ad-dashboard/assets/132865370/ad9ed827-78fb-4107-b06b-0ca321c4830d)  <br><br>
 
 ### Development Process
 
