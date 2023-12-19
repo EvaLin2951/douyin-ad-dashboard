@@ -29,9 +29,3 @@ The phased approach proved to be crucial for the project's success, enabling me 
 ### Achievements
 
 Through this project, I have gained a deep understanding of the fundamental principles and methods of advertising data analysis. I had the opportunity to practice the transformation of business problems into software development requirements, followed by the application of software technologies to implement and deliver those requirements. This experience allowed me to accumulate knowledge in communicating with business stakeholders to understand their requirements and deliver valuable software features that align with business needs and user preferences.  <br><br>
-
-### Remaining Issues
-
-With additional time available, I would have liked to implement access control within the system. This feature would have allowed the system to be deployed on servers and accessed from the internet and would have ensured that sensitive data remained protected while allowing authorized users to access the system remotely. Furthermore, I had plans to enhance the user interface not only to improve the aesthetics but also to enhance the overall user experience by making it more intuitive and engaging.
-
-Post-internship, I explored the creation of a similar application using Streamlit and Pygwalker. This approach offered more flexibility and engaging data exploration features, while the analytical capabilities became more versatile, it also placed higher demands on the users.
